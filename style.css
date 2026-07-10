@@ -70,15 +70,13 @@ main {
 
 .post img {
 
-     width:80%;
-    height:300px;
-
-    object-fit:cover;
-
-    display:block;
-    margin:30px auto 0;
-
-    border-radius:10px;
+     width: 100%;
+    max-width: 450px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 25px auto;
+    border-radius: 16px;
 
 
 }
